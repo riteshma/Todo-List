@@ -1,0 +1,23 @@
+body{
+  background-color: #ccddff;
+}
+.App {
+  text-align: center;
+}
+.container{
+  padding: 5%;
+  margin-top: 5%;
+  width: 50%;
+  background-color: rgb(5, 5, 71);
+}
+.header{
+  color: white;
+  margin-bottom: 5%;
+}
+.list{
+  margin-top: 20px;
+  color: white;
+}
+.listItem{
+  background-color: aqua;
+}
